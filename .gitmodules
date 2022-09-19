@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "discord"]
+	path = discord
+	url = https://github.com/r-computing-lab/discord
+	shallow = true
+	registered = true

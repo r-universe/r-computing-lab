@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "discord",
+    "oncran": true
+  }
+]
