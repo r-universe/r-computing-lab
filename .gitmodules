@@ -8,3 +8,6 @@
 [submodule "discord"]
 	path = discord
 	url = https://github.com/r-computing-lab/discord
+[submodule "ggpedigree"]
+	path = ggpedigree
+	url = https://github.com/r-computing-lab/ggpedigree
