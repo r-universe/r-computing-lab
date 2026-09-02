@@ -11,3 +11,6 @@
 [submodule "ggpedigree"]
 	path = ggpedigree
 	url = https://github.com/r-computing-lab/ggpedigree
+[submodule "tidygedcom"]
+	path = tidygedcom
+	url = https://github.com/r-computing-lab/tidygedcom
